@@ -1,3 +1,7 @@
+I created this project with the help of 
+[Vue js Crash Course By TraversyMedia](https://youtu.be/qZXt1Aom3Cs)
+
+
 ## Project setup
 
 ```
@@ -10,7 +14,7 @@ npm install
 npm run backend
 ```
 
-## Run the Vue dev server (http://localhost:8080)
+## Run the Vue dev server (http://localhost:8081)
 
 ```
 npm run serve

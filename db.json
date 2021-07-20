@@ -2,14 +2,14 @@
   "tasks": [
     {
       "id": 1,
-      "text": "Doctors Appointment",
-      "day": "March 1st at 2:30pm",
+      "text": "Office Meeting",
+      "day": "August 1st at 10:00am",
       "reminder": true
     },
     {
       "id": 2,
-      "text": "Meeting with boss",
-      "day": "March 3rd at 1:30pm",
+      "text": "Project Complete",
+      "day": "July 22 at 1:30pm",
       "reminder": true
     }
   ]

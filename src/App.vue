@@ -43,7 +43,7 @@ export default {
 }
 body {
   font-family: Arial, Helvetica, sans-serif;
-    background-color: blueviolet;
+    background-color: rgb(11, 255, 52);
   
 }
 .container {
@@ -51,11 +51,11 @@ body {
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
-  border: 1px solid steelblue;
+  border: 5px solid rgb(221, 3, 3);
   padding: 40px;
   position: relative;
   border-radius: 1rem;
-  background: rgba(217, 255, 0, 0.8);
+  background: rgba(247, 244, 79, 0.8);
   transform-style: preserve-3d;
   transition: 0.5s;
   box-shadow: 0 15px 35px rgba(248, 242, 242, 0.966);
@@ -64,7 +64,7 @@ body {
 
 .btn {
   display: inline-block;
-  background: #000;
+  background: rgb(6, 44, 255);
   color: #fff;
   border: none;
   padding: 10px 20px;
@@ -84,5 +84,6 @@ body {
 .btn-block {
   display: block;
   width: 100%;
+
 }
 </style>
